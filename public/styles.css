@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin-top: 3rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  list-style: none;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+.product {
+  margin: 1.3rem 0;
+  font-size: 1.2rem;
+}
